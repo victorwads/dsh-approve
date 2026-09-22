@@ -1,0 +1,21 @@
+{
+  "name": "dsh-approve-details",
+  "version": "0.1.0",
+  "description": "DeepSeek Harness approval details UI plugin",
+  "type": "module",
+  "main": "src/index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorwads/dsh-approve.git",
+    "directory": "packages/approve-details"
+  },
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest"
+  },
+  "scripts": {
+    "test": "echo \"No tests specified yet\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
